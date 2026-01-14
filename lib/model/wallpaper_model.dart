@@ -1,3 +1,4 @@
+
 class WallpaperModel{
   String next_page;
   int page;
